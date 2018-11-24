@@ -1,0 +1,6 @@
+{
+    "name": "Node.js API example",
+    "description": "A sample API built in express for node.js",
+    "repository": "https://github.com/arthurpduarte/demo-js-dev-env-api",
+    "keywords": ["node","express","static"]
+}

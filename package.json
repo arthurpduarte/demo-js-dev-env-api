@@ -1,0 +1,25 @@
+{
+  "name": "demo-js-dev-env-api",
+  "version": "1.0.0",
+  "description": "A simple API built on express for node.js",
+  "main": "index.js",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.16.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arthurpduarte/demo-js-dev-env-api.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/arthurpduarte/demo-js-dev-env-api/issues"
+  },
+  "homepage": "https://github.com/arthurpduarte/demo-js-dev-env-api#readme"
+}
